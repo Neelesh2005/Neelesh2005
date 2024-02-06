@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **nileshshukla948@gmail.com**
 
+- ⚡ Fun fact **I often share my love of reading to my fellow readers. I am deeply intrigued by Quant Finance and Stock Trading . I wish to work as a full-time web developer while play volleyball alongside it .**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/heller875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="heller875" height="30" width="40" /></a>
@@ -25,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh2005&show_icons=true&locale=en&layout=compact" alt="neelesh2005" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelesh2005&show_icons=true&locale=en" alt="neelesh2005" /></p>
-
